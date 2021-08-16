@@ -21,3 +21,9 @@
 * Plots and other visualization techniques of R are used before analysis.
 * Random Forest Model, Multiple Regression, Lasso and Ridge Regression, and Regression Tree models are used.
 * Interpreted the models with their RMSE
+
+## [Project 4: CEO Salary Analysis](https://github.com/ferend/ceo-salary-analysis)
+### Project Overview ###
+* In this project, I defined 4 questions related to ceosal data. I started to answer the questions with an analysis of the data set.
+* I aimed to find the relation between top CEO's salaries and which type of accounting state of their company, such as Return on Sales, Return on Investments.
+* I conducted my analysis and modeling using R. I also created an HTML output of the analysis using RMarkdown. You can view the results with this file.
