@@ -14,3 +14,10 @@
 * Mainly focused on finding answers for gender-based wage inequality.
 * Created output of the analysis using RMarkdown.
 
+## [Project 3: FIFA 18 Ultimate Team Project](https://github.com/ferend/FIFA18-Ultimate-Team-Project)
+### Project Overview ###
+* Developed a project where I forecasted player values with predictive analytic techniques.
+* Developed using R.
+* Plots and other visualization techniques of R are used before analysis.
+* Random Forest Model, Multiple Regression, Lasso and Ridge Regression, and Regression Tree models are used.
+* Interpreted the models with their RMSE
