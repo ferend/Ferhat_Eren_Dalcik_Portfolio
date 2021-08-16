@@ -7,8 +7,8 @@
 * Accessibility results of the 3 types of websites are collected from another tool.
 * Created the “accessibility score” dataset for this analysis.
 
-![](https://github.com/ferend/Ferhat_Eren_Dalcik_Portfolio/blob/main/images/123255205-3ddfff00-d4f8-11eb-8679-6f673d24a555.png)
-![](https://github.com/ferend/Ferhat_Eren_Dalcik_Portfolio/blob/main/images/123255462-8b5c6c00-d4f8-11eb-86f1-0090475ddb28.png)
+![](/images/123255205-3ddfff00-d4f8-11eb-8679-6f673d24a555.png)
+![](/images/123255462-8b5c6c00-d4f8-11eb-86f1-0090475ddb28.png)
 
 
 ## [Project 2: Labor Force Survey Analysis](https://github.com/ferend/labor-force-survey-analysis)
@@ -18,8 +18,8 @@
 * Mainly focused on finding answers for gender-based wage inequality.
 * Created output of the analysis using RMarkdown.
 
-![](https://github.com/ferend/Ferhat_Eren_Dalcik_Portfolio/blob/main/images/123438626-90451c80-d5d9-11eb-9a38-6575053b4096.png)
-![](https://github.com/ferend/Ferhat_Eren_Dalcik_Portfolio/blob/main/images/123438566-7c99b600-d5d9-11eb-9420-dd67ddb060d9.png)
+![](/images/123438626-90451c80-d5d9-11eb-9a38-6575053b4096.png)
+![](/images/123438566-7c99b600-d5d9-11eb-9420-dd67ddb060d9.png)
 
 
 ## [Project 3: FIFA 18 Ultimate Team Project](https://github.com/ferend/FIFA18-Ultimate-Team-Project)
@@ -30,7 +30,7 @@
 * Random Forest Model, Multiple Regression, Lasso and Ridge Regression, and Regression Tree models are used.
 * Interpreted the models with their RMSE
 
-![](https://github.com/ferend/Ferhat_Eren_Dalcik_Portfolio/blob/main/images/Ads%C4%B1z.png)
+![](/images/Ads%C4%B1z.png)
 
 ## [Project 4: CEO Salary Analysis](https://github.com/ferend/ceo-salary-analysis)
 ### Project Overview ###
@@ -38,4 +38,4 @@
 * I aimed to find the relation between top CEO's salaries and which type of accounting state of their company, such as Return on Sales, Return on Investments.
 * I conducted my analysis and modeling using R. I also created an HTML output of the analysis using RMarkdown. You can view the results with this file.
 
-![](https://github.com/ferend/Ferhat_Eren_Dalcik_Portfolio/blob/main/images/124120526-8a898400-da7c-11eb-8b76-35731a3f9bc7.png)
+![](/images/124120526-8a898400-da7c-11eb-8b76-35731a3f9bc7.png)
