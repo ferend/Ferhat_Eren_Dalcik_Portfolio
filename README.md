@@ -1,4 +1,4 @@
-# Ferhat Eren_Dalcik Portfolio
+# Ferhat Eren Dalcik Portfolio
 ***My data science and ML projects showcase page.***
 
 ## [Project 1: Web Accessibility Analysis](https://github.com/ferend/web-accessibility-analysis)
